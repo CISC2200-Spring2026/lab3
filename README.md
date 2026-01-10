@@ -1,4 +1,4 @@
-# CISC2200 Spring 2024 Lab3
+# CISC2200 Lab3
 
 In this lab assignment, we practice **working with dynamic array**, **working with class template**,
 and **understanding testcases**.
