@@ -44,11 +44,4 @@ To run a particular subcase, specify the testcase (AList), and the subcase name 
 
 ## Submission 
 
-Submit your **AList.h** file at the following link by March 5th, Tuesday, midnight (11:59pm).
-
-[lab3 submission link
-](https://storm.cis.fordham.edu:8443/web/project/1487)
-
-The autograder compiles and tests your programs using 
-some testcases that are different from those in **main.cpp**. If your program fails some testcases, go back to review your code, and test your member functions
-with different inputs.
+Submit your **AList.h** file to Blackboard. 
