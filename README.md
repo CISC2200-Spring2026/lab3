@@ -10,15 +10,6 @@ From your terminal (mac or WSL/Ubunto) window, you can use the following command
 git clone https://github.com/CISC2200-Spring2026/lab3.git
 ```
 
-## Programming Environment Setup
-If you haven't done so already, please set up programming environment our our own computer, by following [Setup Tutorial](https://eecs280staff.github.io/tutorials/). 
-
-- The _Commannd Line Tools_ are required. 
-
-- The _C++ Dev Environment_ (VSCode) is highly recommened.
-
-**Please follow these tutorials closely and carefully.**
-
 ## Requirements:
 
 Please implement the following member functions in the **AList.h**. 
