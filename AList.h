@@ -5,9 +5,6 @@
 
 namespace ds {
 
-template <typename ItemType>
-class TestDriver; // for autograding only; please ignore
-
 /** Array-based list. */
 template <typename ItemType> class AList {
 
@@ -81,6 +78,7 @@ public:
 
   AList<ItemType> &operator=(const AList<ItemType> &rhs);  
 }; 
+
 /** Copy constructor. */
 template <typename ItemType>
 AList<ItemType>::AList(const AList<ItemType> &other) {
