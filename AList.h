@@ -8,8 +8,6 @@ namespace ds {
 /** Array-based list. */
 template <typename ItemType> class AList {
 
-  friend class TestDriver<ItemType>; // for autograding only; please ignore
-
 private:
   /** The underlying array. */
   ItemType *items;
