@@ -1,5 +1,6 @@
 CXX := g++
-CXXFLAGS := -O0 -g -Wall -std=c++14 -Werror=return-type
+#CXXFLAGS := -O0 -g -Wall -std=c++14 -Werror=return-type
+CXXFLAGS := -O0 -g -Wall -std=c++14 
 
 # enable asan
 CXXFLAGS += -fsanitize=address -fno-omit-frame-pointer
